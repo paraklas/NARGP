@@ -4,9 +4,7 @@ Code accompanying the paper
 
 "Nonlinear information fusion algorithms for data-efficient multi-fidelity modeling"
 
-by
-
-P. Perdikaris, M. Raissi, A. Damianou, N. D. Lawrence, and G. Em. Karniadakis.
+by P. Perdikaris, M. Raissi, A. Damianou, N. D. Lawrence, and G. Em. Karniadakis.
 
 ## Motivation
 
