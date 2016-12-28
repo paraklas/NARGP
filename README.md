@@ -1,6 +1,6 @@
 ## Synopsis
 
-Code accompanying the paper
+Code accompanying the paper:
 
 "Nonlinear information fusion algorithms for data-efficient multi-fidelity modeling"
 
